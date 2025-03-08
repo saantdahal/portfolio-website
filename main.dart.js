@@ -49800,7 +49800,7 @@ A.Lw.prototype={
 $0(){return this.a.hF("https://github.com/saantdahal")},
 $S:0}
 A.Lx.prototype={
-$0(){return this.a.hF("mailto:dahal-santosh.com.np")},
+$0(){return this.a.hF("mailto:about@dahal-santosh.com.np")},
 $S:0}
 A.Pu.prototype={
 BZ(a){var s=t.y
