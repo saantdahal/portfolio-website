@@ -48875,7 +48875,7 @@ A.xw.prototype={
 W(a){return new A.pb(B.wK,"Santosh Dahal | Portfolio",A.a_L(B.Z,null,!0),!1,null)}}
 A.wP.prototype={
 W(a){var s=null
-return new A.qg(A.a9d(new A.vC(B.fZ,B.nj,B.nk,B.bU,s,B.Jl,s,0,A.b([B.Iu,B.DO,B.Iw,B.DN,new A.wj(new A.Kw(),s,s,s,s,s,s,!1,s,s,B.Iv,s),A.ad5(s,20,s),new A.ki("Under Development: Developed with Flutter Web",s,A.r0(s,s,B.cd,s,s,s,s,s,s,s,s,48,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.nA),s),s,s),s)}}
+return new A.qg(A.a9d(new A.vC(B.fZ,B.nj,B.nk,B.bU,s,B.Jl,s,0,A.b([B.Iu,B.DO,B.Iw,B.DN,new A.wj(new A.Kw(),s,s,s,s,s,s,!1,s,s,B.Iv,s),A.ad5(s,20,s),new A.ki("Under Development: Developed with Flutter Web",s,A.r0(s,s,B.cd,s,s,s,s,s,s,s,s,24,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.nA),s),s,s),s)}}
 A.Kw.prototype={
 $0(){},
 $S:0}
